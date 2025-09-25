@@ -1,0 +1,5 @@
+{
+  "name": "AI Chatbot UI Prototype",
+  "description": "A prototype of a chat screen where an AI assistant provides an initial message with a typing effect. This application replicates a provided design for a mental wellness chatbot.",
+  "requestFramePermissions": []
+}
